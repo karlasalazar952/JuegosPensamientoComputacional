@@ -1,7 +1,7 @@
 import pygame
 import sys
 import random
-
+#Prueva de qeu se editaaaaaa
 # Constants
 WIDTH, HEIGHT = 640, 480
 GRID_SIZE = 20
