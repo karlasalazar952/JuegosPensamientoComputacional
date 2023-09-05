@@ -1,1 +1,1 @@
-# JuegosPensamientoComputacional
+# Proyecto Final PC
