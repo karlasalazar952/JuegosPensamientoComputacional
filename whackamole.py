@@ -1,7 +1,7 @@
 import pygame
 import sys
 import random
-
+#kijkjabskfjabskjbaksjb
 # constantes
 WIDTH, HEIGHT = 800, 600
 BG_COLOR = (0, 0, 0)
